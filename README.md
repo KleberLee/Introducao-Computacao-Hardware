@@ -1,19 +1,1 @@
 # Introducao-Computacao-Hardware
-
-🖥️ Investigação de Hardware: ENIAC
-
-📌 Descrição do Artefato
-
-O ENIAC (Electronic Numerical Integrator and Computer)** foi um dos primeiros computadores eletrônicos de grande escala, criado em 1945 nos Estados Unidos. Ele foi desenvolvido para cálculos militares, especialmente tabelas balísticas, e utilizava válvulas eletrônicas, ocupando uma sala inteira.
-
-⚙️ Análise Técnica
-
-| Componente                            | ENIAC (Histórico)                                                                                      | Hardware Moderno (Ex: Smartphone)                                  |
-| ------------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------ |
-| **ULA (Unidade Lógica e Aritmética)** | Realizava operações por meio de circuitos com válvulas, com baixa velocidade e alto consumo de energia | Integrada em chips (CPU), realiza bilhões de operações por segundo |
-| **UC (Unidade de Controle)**          | Programação manual por cabos e painéis                                                                 | Controle automatizado por microarquitetura e sistemas operacionais |
-| **Memória**                           | Muito limitada, baseada em acumuladores e sem armazenamento persistente significativo                  | Gigabytes de RAM e armazenamento interno (SSD/Flash)               |
-| **Periféricos (Entrada/Saída)**       | Cartões perfurados e painéis manuais                                                                   | Tela sensível ao toque, teclado virtual, sensores, rede            
-
-
-![ENIAC_Penn1](https://github.com/user-attachments/assets/a6d09a91-b7db-483e-a620-39dfcfa0316a)
