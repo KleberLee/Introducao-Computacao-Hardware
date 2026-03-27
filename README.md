@@ -13,6 +13,6 @@ O ENIAC (Electronic Numerical Integrator and Computer)** foi um dos primeiros co
 | **ULA (Unidade Lógica e Aritmética)** | Realizava operações por meio de circuitos com válvulas, com baixa velocidade e alto consumo de energia | Integrada em chips (CPU), realiza bilhões de operações por segundo |
 | **UC (Unidade de Controle)**          | Programação manual por cabos e painéis                                                                 | Controle automatizado por microarquitetura e sistemas operacionais |
 | **Memória**                           | Muito limitada, baseada em acumuladores e sem armazenamento persistente significativo                  | Gigabytes de RAM e armazenamento interno (SSD/Flash)               |
-| **Periféricos (Entrada/Saída)**       | Cartões perfurados e painéis manuais        
+| **Periféricos (Entrada/Saída)**       | Cartões perfurados e painéis manuais                                                                   | Tela sensível ao toque, teclado virtual, sensores, rede            |
 
 ![ENIAC_Penn1](https://github.com/user-attachments/assets/b8dedb90-845f-4751-89eb-4937ce7681f7)
